@@ -14,5 +14,7 @@ hs_err_pid*
 	IDEA
 ###################
 .idea
+.gradle
 MyWorkField.iml
 target/
+build/
